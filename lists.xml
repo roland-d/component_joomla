@@ -68,8 +68,6 @@
 	</administration>
 
 	<updateservers>
-        <server type="extension" name="My Extension's Updates">https://www.jah-tz.de/downloads/core/gsoc17/extension.xml</server>
+        <server type="extension" name="My Extension's Updates">https://rolandd.com/24026/lists.xml</server>
 	</updateservers>
-    
-    <dlid prefix="dlid=" sufix="&amp;dummy=my.zip"/>
 </extension>
