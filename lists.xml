@@ -67,6 +67,8 @@
 		</languages>
 	</administration>
 
+	<changelogurl>https://rolandd.com/24026/changelog.xml</changelogurl>
+
 	<updateservers>
         <server type="extension" name="My Extension's Updates">https://rolandd.com/24026/lists.xml</server>
 	</updateservers>
